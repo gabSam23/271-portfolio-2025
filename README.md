@@ -1,2 +1,5 @@
-# 271-portfolio-2025
-Portfolio files for 271
+# ENSE 271 Portfolio
+
+- This is where I am uploading my files for ENSE 271 Lab
+- I will update this throughout the semester
+- The contents will be reviewed at the end of the semester
